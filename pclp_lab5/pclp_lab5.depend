@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1585499135 source:c:\users\victo\onedrive\desktop\unitbv\sem2\pclp2\pclp_lab5\main.cpp
+	<iostream>
+	"Employee.h"
+	"Dreapta.h"
+
+1585208171 c:\users\victo\onedrive\desktop\unitbv\sem2\pclp2\pclp_lab5\include\employee.h
+	"Date.h"
+
+1585208069 c:\users\victo\onedrive\desktop\unitbv\sem2\pclp2\pclp_lab5\include\date.h
+
+1585208308 source:c:\users\victo\onedrive\desktop\unitbv\sem2\pclp2\pclp_lab5\src\employee.cpp
+	<iostream>
+	<cstring>
+	"Employee.h"
+	"Date.h"
+
+1585208317 source:c:\users\victo\onedrive\desktop\unitbv\sem2\pclp2\pclp_lab5\src\date.cpp
+	<iostream>
+	"Date.h"
+
+1585498940 source:c:\users\victo\onedrive\desktop\unitbv\sem2\pclp2\pclp_lab5\src\punct.cpp
+	"Punct.h"
+
+1585498982 c:\users\victo\onedrive\desktop\unitbv\sem2\pclp2\pclp_lab5\include\punct.h
+
+1585499189 source:c:\users\victo\onedrive\desktop\unitbv\sem2\pclp2\pclp_lab5\src\dreapta.cpp
+	"Dreapta.h"
+	<iostream>
+
+1585498877 c:\users\victo\onedrive\desktop\unitbv\sem2\pclp2\pclp_lab5\include\dreapta.h
+	"Punct.h"
+
