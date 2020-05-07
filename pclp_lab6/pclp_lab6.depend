@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1586443611 source:c:\users\victo\onedrive\desktop\unitbv\sem2\pclp2\pclp_lab6\src\complex.cpp
+	"complex.h"
+
+1585812905 c:\users\victo\onedrive\desktop\unitbv\sem2\pclp2\pclp_lab6\include\complex.h
+	<iostream>
+
+1585813299 source:c:\users\victo\onedrive\desktop\unitbv\sem2\pclp2\pclp_lab6\main.cpp
+	"complex.h"
+
