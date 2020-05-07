@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1586302665 source:c:\users\victo\onedrive\desktop\unitbv\sem2\pclp2\pclp_lab7\main.cpp
+	"HourlyWorker.h"
+	"Time.h"
+	"DateTime.h"
+
+1586302870 c:\users\victo\onedrive\desktop\unitbv\sem2\pclp2\pclp_lab7\include\hourlyworker.h
+	"Employee.h"
+	<iostream>
+
+1586283424 c:\users\victo\onedrive\desktop\unitbv\sem2\pclp2\pclp_lab7\include\employee.h
+	<iostream>
+
+1586283424 source:c:\users\victo\onedrive\desktop\unitbv\sem2\pclp2\pclp_lab7\src\employee.cpp
+	"Employee.h"
+
+1586283578 source:c:\users\victo\onedrive\desktop\unitbv\sem2\pclp2\pclp_lab7\src\hourlyworker.cpp
+	"HourlyWorker.h"
+	<iomanip>
+
+1586302797 source:c:\users\victo\onedrive\desktop\unitbv\sem2\pclp2\pclp_lab7\src\time.cpp
+	<iostream>
+	"Time.h"
+
+1586302845 c:\users\victo\onedrive\desktop\unitbv\sem2\pclp2\pclp_lab7\include\time.h
+
+1586302262 c:\users\victo\onedrive\desktop\unitbv\sem2\pclp2\pclp_lab7\include\datetime.h
+	"Time.h"
+
+1586302793 source:c:\users\victo\onedrive\desktop\unitbv\sem2\pclp2\pclp_lab7\src\datetime.cpp
+	<iostream>
+	"DateTime.h"
+	"Time.h"
+
+1586299065 source:c:\users\victo\onedrive\desktop\laboratoare\pclp_lab7\main.cpp
+	"HourlyWorker.h"
+	"Time.h"
+	"DateTime.h"
+
+1586299270 c:\users\victo\onedrive\desktop\laboratoare\pclp_lab7\include\hourlyworker.h
+	"Employee.h"
+	<iostream>
+
+1586279824 c:\users\victo\onedrive\desktop\laboratoare\pclp_lab7\include\employee.h
+	<iostream>
+
+1586299245 c:\users\victo\onedrive\desktop\laboratoare\pclp_lab7\include\time.h
+
+1586298662 c:\users\victo\onedrive\desktop\laboratoare\pclp_lab7\include\datetime.h
+	"Time.h"
+
+1586299193 source:c:\users\victo\onedrive\desktop\laboratoare\pclp_lab7\src\datetime.cpp
+	<iostream>
+	"DateTime.h"
+	"Time.h"
+
+1586279824 source:c:\users\victo\onedrive\desktop\laboratoare\pclp_lab7\src\employee.cpp
+	"Employee.h"
+
+1586279978 source:c:\users\victo\onedrive\desktop\laboratoare\pclp_lab7\src\hourlyworker.cpp
+	"HourlyWorker.h"
+	<iomanip>
+
+1586299197 source:c:\users\victo\onedrive\desktop\laboratoare\pclp_lab7\src\time.cpp
+	<iostream>
+	"Time.h"
+
