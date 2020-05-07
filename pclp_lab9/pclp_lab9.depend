@@ -1,0 +1,201 @@
+# depslib dependency file v1.0
+1587017637 source:c:\users\victo\onedrive\desktop\unitbv\sem2\pclp_lab8\main.cpp
+	<iostream>
+	"point.h"
+	"circle.h"
+	"cylinder.h"
+
+1587017637 c:\users\victo\onedrive\desktop\unitbv\sem2\pclp_lab8\include\point.h
+	<iostream>
+
+1587017637 c:\users\victo\onedrive\desktop\unitbv\sem2\pclp_lab8\include\circle.h
+	<iostream>
+	<iomanip>
+	"point.h"
+
+1587017637 c:\users\victo\onedrive\desktop\unitbv\sem2\pclp_lab8\include\cylinder.h
+	<iostream>
+	"circle.h"
+
+1587017637 source:c:\users\victo\onedrive\desktop\unitbv\sem2\pclp_lab8\src\circle.cpp
+	"circle.h"
+
+1587017637 source:c:\users\victo\onedrive\desktop\unitbv\sem2\pclp_lab8\src\cylinder.cpp
+	"cylinder.h"
+
+1587017637 source:c:\users\victo\onedrive\desktop\unitbv\sem2\pclp_lab8\src\point.cpp
+	<iostream>
+	"point.h"
+
+1587083185 source:c:\users\victo\onedrive\desktop\unitbv\sem2\pclp2\pclp_lab8\main.cpp
+	"point.h"
+	"circle.h"
+	"cylinder.h"
+	"Time.h"
+	"DateTime.h"
+
+1587017637 c:\users\victo\onedrive\desktop\unitbv\sem2\pclp2\pclp_lab8\include\point.h
+	<iostream>
+
+1587017637 c:\users\victo\onedrive\desktop\unitbv\sem2\pclp2\pclp_lab8\include\circle.h
+	<iostream>
+	<iomanip>
+	"point.h"
+
+1587017637 c:\users\victo\onedrive\desktop\unitbv\sem2\pclp2\pclp_lab8\include\cylinder.h
+	<iostream>
+	"circle.h"
+
+1587017637 source:c:\users\victo\onedrive\desktop\unitbv\sem2\pclp2\pclp_lab8\src\circle.cpp
+	"circle.h"
+
+1587017637 source:c:\users\victo\onedrive\desktop\unitbv\sem2\pclp2\pclp_lab8\src\cylinder.cpp
+	"cylinder.h"
+
+1587017637 source:c:\users\victo\onedrive\desktop\unitbv\sem2\pclp2\pclp_lab8\src\point.cpp
+	<iostream>
+	"point.h"
+
+1587082947 c:\users\victo\onedrive\desktop\unitbv\sem2\pclp2\pclp_lab8\include\time.h
+	<iostream>
+
+1587082667 c:\users\victo\onedrive\desktop\unitbv\sem2\pclp2\pclp_lab8\include\datetime.h
+	"Time.h"
+	<iostream>
+
+1587083568 source:c:\users\victo\onedrive\desktop\unitbv\sem2\pclp2\pclp_lab8\src\time.cpp
+	"Time.h"
+
+1587083232 source:c:\users\victo\onedrive\desktop\unitbv\sem2\pclp2\pclp_lab8\src\datetime.cpp
+	"DateTime.h"
+	"Time.h"
+
+1587134896 source:c:\users\victo\onedrive\desktop\unitbv\unitbv\sem2\pclp2\pclp_lab8\pclp_lab8\main.cpp
+	"point.h"
+	"circle.h"
+	"cylinder.h"
+	"Time.h"
+	"DateTime.h"
+
+1587014037 c:\users\victo\onedrive\desktop\unitbv\unitbv\sem2\pclp2\pclp_lab8\pclp_lab8\include\point.h
+	<iostream>
+
+1587014037 c:\users\victo\onedrive\desktop\unitbv\unitbv\sem2\pclp2\pclp_lab8\pclp_lab8\include\circle.h
+	<iostream>
+	<iomanip>
+	"point.h"
+
+1587014037 c:\users\victo\onedrive\desktop\unitbv\unitbv\sem2\pclp2\pclp_lab8\pclp_lab8\include\cylinder.h
+	<iostream>
+	"circle.h"
+
+1587079347 c:\users\victo\onedrive\desktop\unitbv\unitbv\sem2\pclp2\pclp_lab8\pclp_lab8\include\time.h
+	<iostream>
+
+1587079067 c:\users\victo\onedrive\desktop\unitbv\unitbv\sem2\pclp2\pclp_lab8\pclp_lab8\include\datetime.h
+	"Time.h"
+	<iostream>
+
+1587014037 source:c:\users\victo\onedrive\desktop\unitbv\unitbv\sem2\pclp2\pclp_lab8\pclp_lab8\src\circle.cpp
+	"circle.h"
+
+1587014037 source:c:\users\victo\onedrive\desktop\unitbv\unitbv\sem2\pclp2\pclp_lab8\pclp_lab8\src\cylinder.cpp
+	"cylinder.h"
+
+1587079632 source:c:\users\victo\onedrive\desktop\unitbv\unitbv\sem2\pclp2\pclp_lab8\pclp_lab8\src\datetime.cpp
+	"DateTime.h"
+	"Time.h"
+
+1587014037 source:c:\users\victo\onedrive\desktop\unitbv\unitbv\sem2\pclp2\pclp_lab8\pclp_lab8\src\point.cpp
+	<iostream>
+	"point.h"
+
+1587079968 source:c:\users\victo\onedrive\desktop\unitbv\unitbv\sem2\pclp2\pclp_lab8\pclp_lab8\src\time.cpp
+	"Time.h"
+
+1587134896 source:c:\users\victo\onedrive\desktop\laboratoare\pclp_lab8\pclp_lab8\main.cpp
+	"point.h"
+	"circle.h"
+	"cylinder.h"
+	"Time.h"
+	"DateTime.h"
+
+1587014037 c:\users\victo\onedrive\desktop\laboratoare\pclp_lab8\pclp_lab8\include\point.h
+	<iostream>
+
+1587014037 c:\users\victo\onedrive\desktop\laboratoare\pclp_lab8\pclp_lab8\include\circle.h
+	<iostream>
+	<iomanip>
+	"point.h"
+
+1587014037 c:\users\victo\onedrive\desktop\laboratoare\pclp_lab8\pclp_lab8\include\cylinder.h
+	<iostream>
+	"circle.h"
+
+1587079347 c:\users\victo\onedrive\desktop\laboratoare\pclp_lab8\pclp_lab8\include\time.h
+	<iostream>
+
+1587079067 c:\users\victo\onedrive\desktop\laboratoare\pclp_lab8\pclp_lab8\include\datetime.h
+	"Time.h"
+	<iostream>
+
+1587014037 source:c:\users\victo\onedrive\desktop\laboratoare\pclp_lab8\pclp_lab8\src\circle.cpp
+	"circle.h"
+
+1587014037 source:c:\users\victo\onedrive\desktop\laboratoare\pclp_lab8\pclp_lab8\src\cylinder.cpp
+	"cylinder.h"
+
+1587079632 source:c:\users\victo\onedrive\desktop\laboratoare\pclp_lab8\pclp_lab8\src\datetime.cpp
+	"DateTime.h"
+	"Time.h"
+
+1587014037 source:c:\users\victo\onedrive\desktop\laboratoare\pclp_lab8\pclp_lab8\src\point.cpp
+	<iostream>
+	"point.h"
+
+1587079968 source:c:\users\victo\onedrive\desktop\laboratoare\pclp_lab8\pclp_lab8\src\time.cpp
+	"Time.h"
+
+1587134896 source:c:\users\victo\onedrive\desktop\laboratoare\pclp_lab9\pclp_lab9\main.cpp
+	"point.h"
+	"circle.h"
+	"cylinder.h"
+	"Time.h"
+	"DateTime.h"
+
+1587014037 c:\users\victo\onedrive\desktop\laboratoare\pclp_lab9\pclp_lab9\include\point.h
+	<iostream>
+
+1587014037 c:\users\victo\onedrive\desktop\laboratoare\pclp_lab9\pclp_lab9\include\circle.h
+	<iostream>
+	<iomanip>
+	"point.h"
+
+1587014037 c:\users\victo\onedrive\desktop\laboratoare\pclp_lab9\pclp_lab9\include\cylinder.h
+	<iostream>
+	"circle.h"
+
+1587079347 c:\users\victo\onedrive\desktop\laboratoare\pclp_lab9\pclp_lab9\include\time.h
+	<iostream>
+
+1587079067 c:\users\victo\onedrive\desktop\laboratoare\pclp_lab9\pclp_lab9\include\datetime.h
+	"Time.h"
+	<iostream>
+
+1587014037 source:c:\users\victo\onedrive\desktop\laboratoare\pclp_lab9\pclp_lab9\src\circle.cpp
+	"circle.h"
+
+1587014037 source:c:\users\victo\onedrive\desktop\laboratoare\pclp_lab9\pclp_lab9\src\cylinder.cpp
+	"cylinder.h"
+
+1587079632 source:c:\users\victo\onedrive\desktop\laboratoare\pclp_lab9\pclp_lab9\src\datetime.cpp
+	"DateTime.h"
+	"Time.h"
+
+1587014037 source:c:\users\victo\onedrive\desktop\laboratoare\pclp_lab9\pclp_lab9\src\point.cpp
+	<iostream>
+	"point.h"
+
+1587079968 source:c:\users\victo\onedrive\desktop\laboratoare\pclp_lab9\pclp_lab9\src\time.cpp
+	"Time.h"
+
