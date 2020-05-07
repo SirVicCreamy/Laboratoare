@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1588808145 source:c:\users\victo\onedrive\desktop\unitbv\unitbv\sem2\pclp2\pclp_lab10\main.cpp
+	"Point.h"
+	"Circle.h"
+	"Cylinder.h"
+
+1588806794 c:\users\victo\onedrive\desktop\unitbv\unitbv\sem2\pclp2\pclp_lab10\include\shape.h
+	<iostream>
+
+1588788997 source:c:\users\victo\onedrive\desktop\unitbv\unitbv\sem2\pclp2\pclp_lab10\src\shape.cpp
+	"Shape.h"
+
+1587014037 source:c:\users\victo\onedrive\desktop\unitbv\unitbv\sem2\pclp2\pclp_lab10\src\circle.cpp
+	"circle.h"
+
+1587014037 c:\users\victo\onedrive\desktop\unitbv\unitbv\sem2\pclp2\pclp_lab10\include\circle.h
+	<iostream>
+	<iomanip>
+	"point.h"
+
+1588808119 c:\users\victo\onedrive\desktop\unitbv\unitbv\sem2\pclp2\pclp_lab10\include\point.h
+	<iostream>
+
+1587014037 source:c:\users\victo\onedrive\desktop\unitbv\unitbv\sem2\pclp2\pclp_lab10\src\cylinder.cpp
+	"cylinder.h"
+
+1587014037 c:\users\victo\onedrive\desktop\unitbv\unitbv\sem2\pclp2\pclp_lab10\include\cylinder.h
+	<iostream>
+	"circle.h"
+
+1587014037 source:c:\users\victo\onedrive\desktop\unitbv\unitbv\sem2\pclp2\pclp_lab10\src\point.cpp
+	<iostream>
+	"point.h"
+
