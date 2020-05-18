@@ -40,7 +40,7 @@
 	<iomanip>
 	"point.h"
 
-1588966766 c:\users\victo\onedrive\desktop\unitbv\unitbv\sem2\pclp2\laboratoare\pclp_lab10\include\point.h
+1589804697 c:\users\victo\onedrive\desktop\unitbv\unitbv\sem2\pclp2\laboratoare\pclp_lab10\include\point.h
 	<iostream>
 
 1587014037 source:c:\users\victo\onedrive\desktop\unitbv\unitbv\sem2\pclp2\laboratoare\pclp_lab10\src\cylinder.cpp
@@ -54,7 +54,7 @@
 	<iostream>
 	"point.h"
 
-1588808311 source:c:\users\victo\onedrive\desktop\unitbv\unitbv\sem2\pclp2\laboratoare\pclp_lab10\main.cpp
+1589801533 source:c:\users\victo\onedrive\desktop\unitbv\unitbv\sem2\pclp2\laboratoare\pclp_lab10\main.cpp
 	"Point.h"
 	"Circle.h"
 	"Cylinder.h"

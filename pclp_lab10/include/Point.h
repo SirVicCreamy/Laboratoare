@@ -9,7 +9,7 @@ public:
     Point(int = 0, int = 0); //constructor implicit
     void setPoint(int, int); //seteaza coordonatele
 
-    virtual double area() const {return 0;}
+    virtual double area() const = 0;
 
     int getX() const
     {

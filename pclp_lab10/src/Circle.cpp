@@ -26,7 +26,7 @@ double Circle::area() const
 //Centrul = [x, y]; Raza = #.##
 ostream& operator<<(ostream& output, const Circle& c)
 {
-    output << "Centrul = " << static_cast<Point>(c)
+    output << "Centrul = "
            << "; Raza = "
            << setiosflags(ios::fixed | ios::showpoint)
            << setprecision(2) << c.radius;
