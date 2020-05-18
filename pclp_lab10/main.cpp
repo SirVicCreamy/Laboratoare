@@ -6,11 +6,11 @@ using std::cout;
 
 int main()
 {
-    Circle* CirclePtr=new Circle(3 , 0,  0);
-    Cylinder* CylinderPtr=new Cylinder(5 , 2 , 1 , 1);
-    cout<<"Arie cerc: "<<CirclePtr->area();
+    Point* pc=new Circle(3 , 0,  0);
+    Point* pcyl=new Cylinder(5 , 2 , 1 , 1);
+    cout<<"Arie cerc: "<<pc->area();
     cout<<"\n";
-    cout<<"Arie cilindru: "<<CylinderPtr->area();
+    cout<<"Arie cilindru: "<<pcyl->area();
     cout<<"\n";
 
 
