@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1589660440 source:c:\users\victo\onedrive\desktop\unitbv\unitbv\sem2\pclp2\laboratoare\pclp_lab11\src\stack.cpp
+	"Stack.h"
+
+1589660585 c:\users\victo\onedrive\desktop\unitbv\unitbv\sem2\pclp2\laboratoare\pclp_lab11\include\stack.h
+
+1589663775 source:c:\users\victo\onedrive\desktop\unitbv\unitbv\sem2\pclp2\laboratoare\pclp_lab11\main.cpp
+	<iostream>
+	"Stack.h"
+	"Queue.h"
+
+1589803847 c:\users\victo\onedrive\desktop\unitbv\unitbv\sem2\pclp2\laboratoare\pclp_lab11\include\queue.h
+
