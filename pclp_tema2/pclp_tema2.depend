@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1589805127 source:c:\users\victo\onedrive\desktop\unitbv\unitbv\sem2\pclp2\laboratoare\pclp_tema2\main.cpp
+	"Persoana.h"
+	"Student.h"
+	"Profesor.h"
+
+1589369610 c:\users\victo\onedrive\desktop\unitbv\unitbv\sem2\pclp2\laboratoare\pclp_tema2\include\persoana.h
+	<iostream>
+	<vector>
+	<algorithm>
+
+1589319283 source:c:\users\victo\onedrive\desktop\unitbv\unitbv\sem2\pclp2\laboratoare\pclp_tema2\src\persoana.cpp
+	"Persoana.h"
+
+1589804981 source:c:\users\victo\onedrive\desktop\unitbv\unitbv\sem2\pclp2\laboratoare\pclp_tema2\src\student.cpp
+	"Student.h"
+
+1589330841 c:\users\victo\onedrive\desktop\unitbv\unitbv\sem2\pclp2\laboratoare\pclp_tema2\include\student.h
+	"Persoana.h"
+
+1589369608 c:\users\victo\onedrive\desktop\unitbv\unitbv\sem2\pclp2\laboratoare\pclp_tema2\include\profesor.h
+	"Persoana.h"
+
+1589370290 source:c:\users\victo\onedrive\desktop\unitbv\unitbv\sem2\pclp2\laboratoare\pclp_tema2\src\profesor.cpp
+	"Profesor.h"
+
