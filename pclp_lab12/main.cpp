@@ -26,8 +26,8 @@ int main()
     cout<<"\n";
 
     map<string,int>::iterator it = catalog.begin();
-    for (it=catalog.begin(); it!=catalog.end(); ++it)
-        std::cout << it->first << " : " << it->second << '\n';
+    for (it=catalog.begin(); it!=catalog.end(); it++)
+        cout << it->first << " : " << it->second << "\n";
 
 /*
 Popescu
